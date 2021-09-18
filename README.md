@@ -1,5 +1,5 @@
 # hill-biomechanics-simulations
-![](./images/hill_title.png) \\
+![](./images/hill_title.png) \
 In 1938, A.V. Hill [described mathematically the behavior of excess heat production during isometric muscle contractions in the frog sartorius muscle](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1938.0050) . In this computational model, we follow the procedures outlined by Hill to conduct 12 simulated experiments of heat produced during isometric contractions with varied shortening distances and varied shortening loads.
 
 ## Requirements
@@ -13,9 +13,9 @@ In 1938, A.V. Hill [described mathematically the behavior of excess heat product
 1. Replicate heat trace measurements of isometric contraction 
   * In every simulation, the maximal heat produced during reaches an equilibrium. However, the heat traces in the second experiment (varied shortening loads) require varied times to reach equilibrium.
   * Varied shortening distances experiment (Hill Fig 7A)
-  * ![](./images/7A_sim.png) ![](./images/7A_hill.png)
+  * ![](./images/7A_hill.png) ![](./images/7A_sim.png)
   * Varied shortening loads (Hill Fig 7B)
-  * ![](./images/7B_sim.png) ![](./images/7B_hill.png)
+  * ![](./images/7B_hill.png) ![](./images/7B_sim.png)
     
 2. Visualize load response of the hill.p system for figures 7A and 7B
   * The contractile element in the hill.p function can only shorten when the the elastic component becomes elongated, owing to the attenuating behavior as the system regains equilibrium.
