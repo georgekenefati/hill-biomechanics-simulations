@@ -1,4 +1,5 @@
 # hill-biomechanics-simulations
+A course project modeling heat produced by muscle tissue during isometric contraction experiments
 ![](./images/hill_title.png) \
 In 1938, A.V. Hill [described mathematically the behavior of excess heat production during isometric muscle contractions in the frog sartorius muscle](https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.1938.0050) . In this computational model, we follow the procedures outlined by Hill to conduct 12 simulated experiments of heat produced during isometric contractions with varied shortening distances and varied shortening loads.
 
